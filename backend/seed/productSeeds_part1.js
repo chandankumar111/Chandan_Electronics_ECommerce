@@ -45,6 +45,15 @@ const productSeedsPart1 = [
     stock: 40,
   },
   {
+    name: 'Dell XPS 15 Laptop',
+    description: 'High-performance laptop with InfinityEdge display and 12th Gen Intel processor.',
+    price: 1299,
+    category: 'computers',
+    image: 'https://i.dell.com/sites/csimages/Video_Imagery/all/xps-15-9520-laptop.jpg',
+    brand: 'Dell',
+    stock: 30,
+  },
+  {
     name: 'Samsung 65-inch QLED 4K Smart TV',
     description: 'Immersive 4K TV experience with Quantum HDR and Smart Hub.',
     price: 1499,
